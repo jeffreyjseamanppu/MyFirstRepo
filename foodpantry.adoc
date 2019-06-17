@@ -5,3 +5,10 @@
 ## What is the Food Pantry
 Pioneer Pantry strives to alleviate food insecurity by providing supplemental food free to those in need within the Point Park University community.
 
+## What mobile operating system are we using
+This was originally developed under the Cordova platform. This was since moved to the native languages for IOS & Android.
+
+## What programming languages are we using
+- HTML, CSS, JQuery, SQL
+
+
