@@ -18,6 +18,8 @@ This was originally developed under the Cordova platform. This was since moved t
 ## What programming languages are we using
 - HTML, CSS, JQuery, SQL
 
+## Application Environment Details
+
 [grid="rows",format="csv"]
 [options="header",cols="^,<,<s,<,>m"]
 |==========================
