@@ -24,7 +24,7 @@ This was originally developed under the Cordova platform. This was since moved t
 [options="header",cols="^,<,<s,<,>m"]
 |==========================
 App,Location,Environment,URL,Status,Version
-`{FOODPANTRY_LOC}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_URL}`,`{FOODPANTRY_STATUS}`,`{FOODPANTRY_VERSION}`
+`{FOODPANTRY_APP}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_URL}`,`{FOODPANTRY_STATUS}`,`{FOODPANTRY_VERSION}`
 |==========================
 
 
