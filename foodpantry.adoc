@@ -29,6 +29,6 @@ App,Location,Environment,URL,Status,Version
 |==========================
 
 ## GitHub Branching Strategy
--Discuss about your process flow
-image::diagram.png[alt=logo,width=250px][orientation=portrait]
+
+image::diagram.png[alt=diagram,width=250px][orientation=portrait]
 
