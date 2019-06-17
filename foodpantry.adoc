@@ -1,5 +1,12 @@
 # Food Pantry App
 
+:FOODPANTRY_APP: Food Pantry
+:FOODPANTRY_LOC: Wood St
+:FOODPANTRY_ENV: Staging
+:FOODPANTRY_URL: https://pioneerpantry.org
+:FOODPANTRY_STATUS: Available
+:FOODPANTRY_VERSION: 1.0.1
+:imagesdir: images
 
 
 ## What is the Food Pantry
@@ -10,5 +17,12 @@ This was originally developed under the Cordova platform. This was since moved t
 
 ## What programming languages are we using
 - HTML, CSS, JQuery, SQL
+
+[grid="rows",format="csv"]
+[options="header",cols="^,<,<s,<,>m"]
+|==========================
+App,Location,Environment,URL,Status,Version
+`{FOODPANTRY_APP}`,`{FOODPANTRY_LOC}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_URL}`,`{FOODPANTRY_STATUS}`,`{FOODPANTRY_VERSION}`
+|==========================
 
 
