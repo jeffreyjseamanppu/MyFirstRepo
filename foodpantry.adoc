@@ -28,6 +28,7 @@ App,Location,Environment,URL,Status,Version
 `{FOODPANTRY_APP}`,`{FOODPANTRY_LOC}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_URL}`,`{FOODPANTRY_STATUS}`,`{FOODPANTRY_VERSION}`
 |==========================
 
-
-
+## GitHub Branching Strategy
+-Discuss about your process flow
+image::diagram.png[alt=logo,width=250px][orientation=portrait]
 
