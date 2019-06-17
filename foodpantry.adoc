@@ -8,8 +8,7 @@
 :FOODPANTRY_VERSION: 1.0.1
 :imagesdir: images
 
-+
-image::PantryLogo.png[alt=logo,width=250px][orientation=landscape]
+
 ## What is the Food Pantry
 Pioneer Pantry strives to alleviate food insecurity by providing supplemental food free to those in need within the Point Park University community.
 
@@ -28,4 +27,5 @@ App,Location,Environment,URL,Status,Version
 `{FOODPANTRY_APP}`,`{FOODPANTRY_LOC}`,`{FOODPANTRY_ENV}`,`{FOODPANTRY_URL}`,`{FOODPANTRY_STATUS}`,`{FOODPANTRY_VERSION}`
 |==========================
 
-
++
+image::PantryLogo.png[alt=logo,width=250px][orientation=landscape]
